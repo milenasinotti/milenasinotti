@@ -6,13 +6,11 @@ Currently, I am diving into front-end development. My goal is to unify my design
 
 Here you will find some of my projects, where I apply my design and programming knowledge to build engaging and functional interfaces.
 
-##
-
 Feel free to explore my repositories and follow my journey on GitHub!
 
 ##
 
-🚀 Skills
+##🚀 Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
