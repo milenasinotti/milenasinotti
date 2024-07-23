@@ -6,11 +6,11 @@ Currently, I am diving into front-end development. My goal is to unify my design
 
 Here you will find some of my projects, where I apply my design and programming knowledge to build engaging and functional interfaces.
 
----
+##
 
 Feel free to explore my repositories and follow my journey on GitHub!
 
----
+##
 
 ## 🚀 Skills
 
@@ -18,3 +18,8 @@ Feel free to explore my repositories and follow my journey on GitHub!
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/milenasinotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
