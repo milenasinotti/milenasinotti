@@ -1,4 +1,4 @@
-## Hi, I'm Milena Sinotti 👋
+## Hi, I'm Milena Sinotti 
 
 I have a degree in Digital Design and a passion for creating innovative visual solutions that generate impact and tangible results. With 5 years of experience in the market, especially in the gaming and esports sectors, I am always looking for new trends and market demands.
 
@@ -8,7 +8,6 @@ Here you will find some of my projects, where I apply my design and programming 
 
 Feel free to explore my repositories and follow my journey on GitHub!
 
-##
 
 ## 🚀 Skills
 
